@@ -1,1 +1,2 @@
-item_code,item_name,item_quantity,supplier_code
+GL,name,100,sp01
+GL\,name,100,sp01
